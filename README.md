@@ -13,15 +13,15 @@ In this dataset there were a total of 1607 Vine(paid) 5 star reviews and there w
 
 ### 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? 
 - Percentage of 5 star Vine reviews vs total reviews = 0.09%
-![1]()
+![1](https://github.com/ericajini/Amazon_Vine_Analysis/blob/main/Images/1.jpg)
 - Percentage of 5 star Vine reviews vs total 5 star reviews = 0.16%
-![2]()
+![2](https://github.com/ericajini/Amazon_Vine_Analysis/blob/main/Images/2.jpg)
 - Percentage of 5 star Vine reviews vs total vine reviews = 37.45%
-![3]()
+![3](https://github.com/ericajini/Amazon_Vine_Analysis/blob/main/Images/3.jpg)
 - Percentage of 5 star Non-Vine reviews vs total reviews = 57.41%
-![4]()
+![4](https://github.com/ericajini/Amazon_Vine_Analysis/blob/main/Images/4.jpg)
 - Percentage of 5 star Non-Vine reviews vs total 5 star reviews = 99.84%
-![5]()
+![5](https://github.com/ericajini/Amazon_Vine_Analysis/blob/main/Images/5.jpg)
 - Percentage of 5 star Vine reviews vs 5 star Non-Vine reviews = 0.001%
 
 

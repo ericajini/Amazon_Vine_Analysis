@@ -13,12 +13,17 @@ In this dataset there were a total of 1607 Vine(paid) 5 star reviews and there w
 
 ### 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? 
 - Percentage of 5 star Vine reviews vs total reviews = 0.09%
+![1]()
 - Percentage of 5 star Vine reviews vs total 5 star reviews = 0.16%
+![2]()
 - Percentage of 5 star Vine reviews vs total vine reviews = 37.45%
-- Percentage of 5 star Non-Vine reviews vs total reviews = 57.51%
+![3]()
+- Percentage of 5 star Non-Vine reviews vs total reviews = 57.41%
+![4]()
 - Percentage of 5 star Non-Vine reviews vs total 5 star reviews = 99.84%
+![5]()
 - Percentage of 5 star Vine reviews vs 5 star Non-Vine reviews = 0.001%
 
 
 ## Summary: 
-After completing this analysis, I don't think there is any positivity bias for reviews in the Vine program. Just to start, the number of Vine reviews overall is very low, coming in at only 4,291 vs. the 1,781,706 Non-Vine reviews. Also, the 5 star vine reviews are only 37.45% of the total vine reviews and only 0.09% of the total reviews. The Non-Vine 5 star reviews come in at a much higher percent when comparing to the total review count, at 57.51%. 
+After completing this analysis, I don't think there is any positivity bias for reviews in the Vine program. Just to start, the number of Vine reviews overall is very low, coming in at only 4,291 vs. the 1,781,706 Non-Vine reviews. Also, the 5 star vine reviews are only 37.45% of the total vine reviews and only 0.09% of the total reviews. The Non-Vine 5 star reviews come in at a much higher percent when comparing to the total review count, at 57.41%. 
